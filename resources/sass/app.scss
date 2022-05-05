@@ -1,0 +1,26 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+main {
+    background: no-repeat center url(../images/lsc.jpg);
+    min-width: 100%;
+    min-height: 100vh;
+}
+
+.home-lsc{
+    width: 100%;
+    height: 100vh;
+    background: no-repeat center url(../images/lsc.jpg);
+}
+
+.los-santos-customs img {
+    background: transparent;
+    width: 200px;
+    height: 70px;
+}
